@@ -9,4 +9,4 @@ This project contains a SageMaker Studio Notebook that demonstrates how Kaggle c
 
 
 ## 🤝 Contributing
-This was a simple demonstration of data ingestion, you can build on this solution by extracting insights from the data using pandas or perhaps training an ML model. If you do, please feel free to share your project with me. You can find me on [LinkedIn](https://www.linkedin.com/feed/) or on [Twitter](https://twitter.com/gjyoungjr). 
+This was a simple demonstration of data ingestion, you can build on this solution by extracting insights from the data using pandas or perhaps training an ML model. If you do, please feel free to share your project with me. You can find me on [LinkedIn](https://www.linkedin.com/in/gilbert-young-jr-3098671a4/) or on [Twitter](https://twitter.com/gjyoungjr). 
